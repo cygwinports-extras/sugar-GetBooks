@@ -1,3 +1,6 @@
+NAME="sugar-GetBooks"
+VERSION=14
+RELEASE=1
 SUGAR_TYPE="Honey"
 inherit sugar
 
